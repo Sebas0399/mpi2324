@@ -1,2 +1,2 @@
 
-mpiexec -n 4 ejemplo01
+mpiexec -n 4 ejemplo02
