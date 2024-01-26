@@ -1,2 +1,2 @@
 
-mpiexec -n 4 ejemplo_matrices
+mpiexec -n 4 ejemplo03_v4

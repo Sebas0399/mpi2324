@@ -1,2 +1,2 @@
 
-mpicxx ejemplo_matrices.cpp -o ejemplo_matrices
+mpicxx ejemplo03_v4.cpp -o ejemplo03_v4

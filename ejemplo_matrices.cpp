@@ -16,11 +16,7 @@ void matrix_mult(double *A, double *b, double *c, int rows, int cols)
         
 
     }
-    for (int i = 0; i < MATRIX_DIMENSION; i++)
-        {
-            std::printf("%.0f, ", c[i]);
-        }
-                    std::printf("\n");
+   
 }
 int main(int argc, char **argv)
 {
