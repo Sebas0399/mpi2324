@@ -1,2 +1,2 @@
 
-mpiexec -n 4 ejemplo03_v4
+mpiexec -n 4 ghost_update
